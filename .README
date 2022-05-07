@@ -1,0 +1,7 @@
+This API uses scraperapi.com to scrape products data from Amazon.
+You can test this API with Postman. For example:
+GET url: http://localhost:5000/products/B0173O2X5A/
+Authorization
+Key: api_key
+Value: 78b3002622e50f89bd9a0f1f91ae1c17
+Add to: Query params
